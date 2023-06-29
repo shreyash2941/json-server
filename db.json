@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "firstName": "Saurabhubale",
+      "lastName": "Ubale",
+      "email": "saurabhubale371@gmail.com",
+      "mobile": "8668727151",
+      "address1": "Ood Cty Akola",
+      "address2": "raejshewar mandir",
+      "state": [
+        "New York"
+      ],
+      "country": "USA",
+      "zipCode": "444002",
+      "id": 3
+    },
+    {
+      "firstName": "saurabh",
+      "lastName": "Ubale",
+      "email": "saurabhubale371@gmail.com",
+      "mobile": "8668727151",
+      "address1": "Ood Cty Akola",
+      "address2": "farashi rode",
+      "state": [
+        "Ontario"
+      ],
+      "country": "Canada",
+      "zipCode": "444002",
+      "id": 4
+    },
+    {
+      "firstName": "shreaysh",
+      "lastName": "singh",
+      "email": "shreays@gmail.com",
+      "mobile": "9423458974",
+      "address1": "old city sambhajingar",
+      "address2": "not required",
+      "state": [
+        "New York"
+      ],
+      "country": "USA",
+      "zipCode": "444002",
+      "id": 5
+    }
+  ]
+}
+
